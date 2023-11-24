@@ -2,13 +2,12 @@
 
 <html lang="pt-br">
 
-
 <head> 
 
 <meta charset="utf-8">
 
 <title>Meu amigo cão - Petshop</title>
-<<<<<<< HEAD
+<link href="estilos/principal.css" rel="stylesheet" type="text/css";>
 <style>
 h2{
     background-color: #c0262c;
@@ -32,14 +31,9 @@ ul li{
 list-style-position: inside;
     margin:30px 0;
 }
-figcaption{
-    background-color: #c0262c;
-=======
-<Style>
 h2{
     background-color: #C0262C;
-    background-image: url(multimidia/importante-saber.jpg),
-url(multimidia/back-bolinha.gif);
+    background-image: url(multimidia/importante-saber.jpg), url(multimidia/back-bolinha.gif);
     background-repeat: no-repeat, repeat;
     background-position: center right, center center;
     width: 470px;
@@ -50,20 +44,18 @@ url(multimidia/back-bolinha.gif);
 }
 figcaption {
     background-color: #C0262C;
->>>>>>> a9fb0d5af97678fd7acf35c89ed60c4d223c8d95
     padding: 7px 0;
     color: #ffffff;
     font-size: 1.5em;
 }
-<<<<<<< HEAD
+
 dt {
     color:#fff;
     background-color: #c0262c;
     padding: 7px;
 }
-dd{
-    border: thin #c0262c solid;
-=======
+
+
 figure{
     border: #C0262C solid thin;
     border-radius: 35px 35px 0 0;
@@ -84,13 +76,11 @@ dt {
 }
 dd{
     border: thin #C0262C solid;
->>>>>>> a9fb0d5af97678fd7acf35c89ed60c4d223c8d95
     border-radius: 0 0 25px 25px;
     margin-top: -3px;
     margin-bottom: 30px;
     padding: 20px 20px 0;
 }
-<<<<<<< HEAD
 ol {
     list-style-type: none;
     white-space: pre;
@@ -103,14 +93,40 @@ ol li:before{
     /*incrementar a variavel em 1*/
     counter-increment: contador;
     /*usar o numero do contador como conteudo*/
-    content: "quest";
-    
+    content: "Questão"counter(contador)"\00BB";
 }
-
+ul li a {
+    text-decoration: none;
+    color:#C0262C;
+    font-weight: bold;
+    padding: 7px;
+}
+ul li a:hover {
+    text-decoration: underline;
+}
+dd a[target="_blank"] {
+    text-decoration: none;
+    color:#C0262C;
+    font-weight: bold;
+    padding: 7px;
+    display: inline-block;
+}
+dd a[target="_blank"]:hover {
+    text-decoration: underline;
+}
+dd a[href="#top"] {
+    text-decoration: none;
+    color:#C0262C;
+    font-weight: bold;
+    padding: 7px 0 7px 30px;
+    background: url(multimidia/seta-voltar-hover.png) no-repeat left center;
+}
+dd a[href="#top"]:hover {
+    text-decoration: underline;
+    background: url(multimidia/seta-voltar-hover.png) no-repeat left center;
+}
 </style>
-=======
-</Style>
->>>>>>> a9fb0d5af97678fd7acf35c89ed60c4d223c8d95
+
 
 </head>
 
