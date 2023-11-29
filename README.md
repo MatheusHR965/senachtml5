@@ -70,3 +70,5 @@ Caption: a tag caption define uma legenda para a tabela. Deve ser iserida apos a
 
 # pagina 145
 text-align: center
+# pagina 145 
+Estilo.css
