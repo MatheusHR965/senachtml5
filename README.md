@@ -72,3 +72,10 @@ Caption: a tag caption define uma legenda para a tabela. Deve ser iserida apos a
 text-align: center
 # pagina 145 
 Estilo.css
+
+# pagina 161
+<header>: Ele especifica um cabeçalho de um documento ou uma seção. Só se deve utilizar quando seu conteudo tiver significado introdutorio da pagina.
+<nav>: Define um conjunto de links de navegaçoes. Esses elementos destinao-se a grandes blocos de links de navegaçoes. No entanto, nem todos os links em um documento precisam estar dentro de um elemento <nav>;
+<section>: Define uma seção do documento, um agrupamento rematico de um conteudo que geralmente vem com titulo. A página pode ser dividida em seçoes nas quais o desenvolvedor pode inserir informaçoes, como: introdução, conteúdo e informações de contatos;
+
+# pagina 175
