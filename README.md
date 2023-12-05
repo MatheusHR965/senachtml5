@@ -79,3 +79,5 @@ Estilo.css
 <section>: Define uma seção do documento, um agrupamento rematico de um conteudo que geralmente vem com titulo. A página pode ser dividida em seçoes nas quais o desenvolvedor pode inserir informaçoes, como: introdução, conteúdo e informações de contatos;
 
 # pagina 175
+
+# pagina 210
