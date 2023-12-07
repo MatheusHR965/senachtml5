@@ -81,3 +81,18 @@ Estilo.css
 # pagina 175
 
 # pagina 210
+
+# Flexbox Frogge: comandos que podem usa com Justify-content
+1) Flex-Start 
+2) Flex-end
+3) Center
+4) Space-Between
+5) Space-Around
+# Comandos para usar com Align-items
+1) Flex-Start 
+2) Flex-end
+3) Center
+4) Baeline
+5) Stretch
+# comandos Flext-direction
+1) 
