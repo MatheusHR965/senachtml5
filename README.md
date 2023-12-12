@@ -95,4 +95,5 @@ Estilo.css
 4) Baeline
 5) Stretch
 # comandos Flext-direction
-1) 
+
+# Pagina 219 
