@@ -96,4 +96,6 @@ Estilo.css
 5) Stretch
 # comandos Flext-direction
 
-# Pagina 219 
+# Pagina 219
+
+# pagina 225
