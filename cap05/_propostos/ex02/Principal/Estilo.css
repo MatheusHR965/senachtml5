@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid #036;
+}
+tr ,th {
+    border: 1px solid #036;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+caption, th {
+    background-color: #036;
+    color: white;
+    
+}
+td {
+    border-bottom: 1px, #036;
+    padding: 10px;
+}
+caption {
+    border: 1px solid #036;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #036;
+    background-color: #036;
+}
+tr {
+    border: 1px solid #036;
+}
